@@ -1,4 +1,17 @@
 <resources>
-    <string name="app_name">main</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name">Navigation App</string>
+
+    <string name="main_activity_title">Главный экран</string>
+    <string name="second_activity_title">Второй экран</string>
+
+    <string name="open_second_activity">Открыть второй экран</string>
+    <string name="enter_data">Введите текст для передачи</string>
+    <string name="send_data">Отправить данные</string>
+
+    <string name="received_data">Полученные данные:</string>
+    <string name="no_data">Данные не получены</string>
+    <string name="back_to_main">Назад на главный</string>
+
+
+    <string name="extra_data_key">EXTRA_DATA</string>
 </resources>
